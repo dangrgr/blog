@@ -1,9 +1,9 @@
 ## Password Spraying-Detection Research
-*Sunday, May 16, 2021
-*2:23 AM
+*Sunday, May 16, 2021*
+*2:23 AM*
 
-*-- Dan Grindall
-*https://www.linkedin.com/in/dan-grindall/
+*-- Dan Grindall*
+*https://www.linkedin.com/in/dan-grindall/*
 
 
 
