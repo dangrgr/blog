@@ -17,6 +17,6 @@ Why should you care about detecting password spraying? Because it works!
  
 From Rapid7 "Under The Hoddie 2019 Research Report"; A Survey to Pentest Organizations:
 
-![Picture1.png](https://github.com/dangrgr/blog/2020/05/images/Picture1.png)
+![Picture1.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture1.png)
 
 
