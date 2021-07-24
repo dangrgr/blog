@@ -1,15 +1,14 @@
-##Password Spraying-Detection Research
-Sunday, May 16, 2021
-2:23 AM
- 
--- Dan Grindall
+## Password Spraying-Detection Research
+*Sunday, May 16, 2021
+*2:23 AM
 
-https://www.linkedin.com/in/dan-grindall/
-
+*-- Dan Grindall
+*https://www.linkedin.com/in/dan-grindall/
 
 
 
-#Background for Password Spraying
+
+## Background for Password Spraying
 
 Why should you care about detecting password spraying? Because it works!
  
