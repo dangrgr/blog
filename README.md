@@ -5,6 +5,7 @@ All works within are created and intended for educational purposes, only. Do not
 
 
 # Password Spraying - Detection Research - Sunday, May 16, 2021 - 2:23 AM
-https://sway.office.com/IjiHIHJgqqpShDVf?ref=Link 
+Sway: https://sway.office.com/IjiHIHJgqqpShDVf?ref=Link 
+OneDrive: https://1drv.ms/w/s!Ag0dwhql4nbEisQbtbpO0AHHO6a6tw?e=DXdVaG
 
 
