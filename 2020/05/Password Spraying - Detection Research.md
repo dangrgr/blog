@@ -5,7 +5,7 @@
 *-- Dan Grindall*
 *https://www.linkedin.com/in/dan-grindall/*
 
-All works within are created and intended for educational purposes, only. Do not use any knowledge gained here to engange in illigal activities! Purpose and character of the use portions of copyrighted work is for nonprofit educational purposes as described in Section 107 of U.S. Copyright act: https://www.copyright.gov/title17/92chap1.html#107
+All works within are created and intended for educational purposes, only. Do not use any knowledge gained here to engange in illigal activities! Purpose and character of the use of any copyrighted work is for nonprofit educational purposes as described in Section 107 of U.S. Copyright act: https://www.copyright.gov/title17/92chap1.html#107
 
 ## Background for Password Spraying
 
