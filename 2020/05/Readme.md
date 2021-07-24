@@ -5,5 +5,5 @@ Sunday, May 16, 2021
 -- Dan Grindall
 dan.grindall@gmail.com
 
-Word
-PDF
+* Word: Password Spraying - Detection Research.docx
+* PDF: Password Spraying - Detection Research.pdf
