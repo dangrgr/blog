@@ -17,17 +17,17 @@ Why should you care about detecting password spraying? Because it works!
        
 *-- Source: https://www.rapid7.com/research/reports/under-the-hoodie-2020/*
 
-* CREDENTIAL CAPTURE: HOW DID YOU OBTAIN PASSWORDS OR PASSWORD HASHES?
+* Credential capture: "How did you obtain passwords or password hashes?"
 
 ![Picture1.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture1.png)
 
 
-* GUESSABLE CRACKED PASSWORDS
+* Guessable cracked passwords
 
 ![Picture2.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture2.png)
 
 
-* EXTERNAL ENGAGEMENT: HOW EFFECTIVE WERE LOCKOUTS?
+* External engagement: "How effective were lockouts?"
 
 ![Picture3.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture3.png)
 
