@@ -13,7 +13,7 @@ Why should you care about detecting password spraying? Because it works!
 
 
  
-**From Rapid7 "Under The Hoddie 2019 Research Report"; A Survey to Pentest Organizations:**
+**From Rapid7 "Under The Hoddie 2020 Research Report" (A Survey of Pentesters):**
        
 *-- Source: https://www.rapid7.com/research/reports/under-the-hoodie-2020/*
 
