@@ -13,21 +13,21 @@ Why should you care about detecting password spraying? Because it works!
 
 
  
-**From Rapid7 "Under The Hoddie 2020 Research Report" (A Survey of Pentesters):**
+### From Rapid7 "Under The Hoddie 2020 Research Report" (A Survey of Pentesters):**
        
 *-- Source: https://www.rapid7.com/research/reports/under-the-hoodie-2020/*
 
-* Credential capture: "How did you obtain passwords or password hashes?"
+**Credential capture: "How did you obtain passwords or password hashes?"**
 
 ![Picture1.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture1.png)
 
 
-* Guessable cracked passwords
+**Guessable cracked passwords**
 
 ![Picture2.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture2.png)
 
 
-* External engagement: "How effective were lockouts?"
+**External engagement: "How effective were lockouts?"**
 
 ![Picture3.png](https://github.com/dangrgr/blog/blob/main/2020/05/images/Picture3.png)
 
